@@ -2,7 +2,7 @@
 
 
 Projet collectif d'une durée de 2 semaines sur la création d'un site web dynamique avec l'utilisation d'une base de données.
-Debugs et ajouts de fonctionnalités à partir d'un code déjà existant (commit V0). Nous l'avons personnalisé en choisissant le thème du voyage et en imaginant le design.
+Debugs et ajouts de fonctionnalités à partir d'un code déjà existant. Nous l'avons personnalisé en choisissant le thème du voyage et en imaginant le design.
 
   
 ## Langages
